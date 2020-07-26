@@ -10,3 +10,5 @@ This should help train your eye to perceive differences in spacings and sizes.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
+Click Here: 
+https://deep-designer.github.io/fylo-landing-page/
